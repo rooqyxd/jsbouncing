@@ -1,0 +1,19 @@
+.game {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	margin-top: 3em;
+}
+.action-btn {
+	margin: 2em;
+	padding: 1em 2em;
+	border-radius: 5px;
+	width: 200px;
+}
+.activated {
+	background-color: #b37b7b;
+}
+.notactive {
+	background-color: #7bb3b3;
+}
